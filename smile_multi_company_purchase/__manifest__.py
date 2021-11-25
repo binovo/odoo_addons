@@ -18,7 +18,7 @@
     "sequence": 20,
     "data": [],
     "qweb": [],
-    "auto_install": True,
+    "auto_install": False,
     "installable": True,
     "application": False,
 }

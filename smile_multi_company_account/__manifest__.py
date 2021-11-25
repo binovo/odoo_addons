@@ -20,7 +20,7 @@
         'views/res_company_view.xml',
     ],
     "qweb": [],
-    "auto_install": True,
+    "auto_install": False,
     "installable": True,
     "application": False,
 }
