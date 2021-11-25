@@ -21,7 +21,7 @@
         'wizard/sale_make_invoice_advance_views.xml',
     ],
     "qweb": [],
-    "auto_install": True,
+    "auto_install": False,
     "installable": True,
     "application": False,
 }
